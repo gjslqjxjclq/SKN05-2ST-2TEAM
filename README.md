@@ -49,6 +49,8 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 
 # 4. 가설과 가설 검정
+
+<img width="726" alt="스크린샷 2024-10-17 오후 3 02 25" src="https://github.com/user-attachments/assets/b2caf38c-1fbe-47c5-b137-80b4530598c4">
 ### :heavy_check_mark:가설 1: 고객의 가입 기간이 길수록 이탈 가능성이 낮다
 - **데이터 수집**:
 - **통계 분석**:
